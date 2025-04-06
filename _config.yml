@@ -1,0 +1,7 @@
+title: "ePro"
+author: "Yanush Viktar"
+description: "Документация на сервис по выбору уставок РЗА"
+baseurl: "" # Оставьте пустым, если это основной сайт
+url: "https://vicjan89.github.io" # URL вашего сайта
+theme: minima # Используемая тема (например, minima)
+markdown: kramdown # Обработка Markdown
