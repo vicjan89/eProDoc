@@ -4,7 +4,7 @@ table.docutils {
 }
 
 table.docutils td, table.docutils th {
-    white-space: normal; /* Разрешает перенос текста */
-    word-wrap: break-word; /* Переносит длинные слова */
-    overflow-wrap: break-word; /* Современный аналог word-wrap */
+    white-space: normal !important; /* Разрешает перенос текста */
+    word-wrap: break-word !important; /* Переносит длинные слова */
+    overflow-wrap: break-word !important; /* Современный аналог word-wrap */
 }
