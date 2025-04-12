@@ -3,5 +3,6 @@
    :maxdepth: 3
 
    about
+   interface
    protections
 
