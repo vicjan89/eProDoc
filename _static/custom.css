@@ -1,0 +1,10 @@
+table.docutils {
+    width: 100%; /* Таблица занимает всю доступную ширину */
+    table-layout: fixed; /* Фиксирует ширину колонок */
+}
+
+table.docutils td, table.docutils th {
+    white-space: normal; /* Разрешает перенос текста */
+    word-wrap: break-word; /* Переносит длинные слова */
+    overflow-wrap: break-word; /* Современный аналог word-wrap */
+}
