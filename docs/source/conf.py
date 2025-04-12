@@ -1,8 +1,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'ePro'
-copyright = '2025, Yanush Viktar'
-author = 'Yanush Viktar'
+copyright = '2025, ePro'
+author = 'ePro'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'
