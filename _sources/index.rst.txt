@@ -1,5 +1,5 @@
-ePro документация
-=================
+RelayCalc документация
+======================
 
 .. toctree::
    :maxdepth: 3
@@ -7,4 +7,4 @@ ePro документация
    about
    interface
    protections
-
+   contacts
