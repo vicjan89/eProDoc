@@ -1,8 +1,8 @@
 # -- Project information -----------------------------------------------------
 
-project = 'ePro'
-copyright = '2025, ePro'
-author = 'ePro'
+project = 'RelayCalc'
+copyright = '2025, RelayCalc'
+author = 'RelayCalc'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'

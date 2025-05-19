@@ -8,3 +8,8 @@ table.docutils td, table.docutils th {
     word-wrap: break-word !important; /* Переносит длинные слова */
     overflow-wrap: break-word !important; /* Современный аналог word-wrap */
 }
+
+
+.wy-side-nav-search, .wy-nav-top {
+    background: #417690;
+}
