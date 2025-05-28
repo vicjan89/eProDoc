@@ -7,4 +7,5 @@ RelayCalc документация
    about
    interface
    protections
+   functions
    contacts
