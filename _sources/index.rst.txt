@@ -9,3 +9,4 @@ RelayCalc документация
    protections
    functions
    contacts
+   politic
